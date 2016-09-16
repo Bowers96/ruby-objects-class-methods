@@ -1,5 +1,8 @@
 # Cat class
 class Cat
+  # not as bad
+  @cats_count
+  # pure unmitigated hatred
   @@cats_count = 0
 
   def initialize(name)
